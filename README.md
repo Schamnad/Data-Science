@@ -11,3 +11,9 @@ Scripts for capturing tweets, creating sentiment dictionary, processing & scorin
 
 Twitter app authentication credentials are required for use of twitterstream.py. Acquire these [here](https://dev.twitter.com/).
 
+## Project 2
+
+### Data Manipulation at Scale: Systems and Algorithms
+These are my assignments for [Data Manipulation at Scale](https://www.coursera.org/learn/data-manipulation/home/info): Systems and Algorithms - Bill Howe -- Spring 2016 offered on Coursera.
+
+Topics: Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
