@@ -14,3 +14,8 @@ Assignment 3 - Map Reduce
 -------------------------
 ``Complete``
 Using a mock implementation of [MapReduce](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/mapreduce-osdi04.pdf) (written in Python) to complete various tasks that are good use-cases for this large-scale data processing programming model.  Includes joins, DNA sequence trimming, and matrix multiplication.
+
+Assignment 5 - Machine learning using R
+-------------------------
+``Complete``
+Using various R Machine learning libraries, a data set from the SeaFlow environmental flow cytometry instrument was used to generate a training set, test set. This test bed was used to train a Decision tree, a Random Forest, and a SVM. Accuracies of each classifier were calculated and depicted via a confusion matrix.
